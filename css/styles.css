@@ -646,7 +646,7 @@ color: #8E8F99;
     line-height: 1.17;
     letter-spacing: 0.48px;
     margin-bottom: 4px;
-    display: block;
+    display: inline-flex;
     margin-top: 8px;
 }
 
