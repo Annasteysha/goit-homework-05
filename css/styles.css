@@ -471,6 +471,7 @@ margin-left: 80px;
 
 .footer-subscribe {
 margin-bottom: 16px;
+padding: 8px 24px;
 font-weight: 500;
 font-size: 16px;
 line-height: 1.5;
@@ -533,6 +534,7 @@ color: #ffffff;
     margin: 0;
     padding: 0;
     margin-left: 16px;
+    fill: #ffffff;
 }
 h1,
 h2,
